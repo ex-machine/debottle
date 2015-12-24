@@ -1,0 +1,28 @@
+{
+  "name": "debottle",
+  "authors": [
+    "ex-machine"
+  ],
+  "version": "1.0.0",
+  "description": "JS debounce/throttle portmanteau, now with callback taste",
+  "keywords": [
+    "debounce",
+    "throttle"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ex-machine/debottle",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "main": "dist/debottle.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
