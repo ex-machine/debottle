@@ -1,6 +1,6 @@
 {
   "name": "debottle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JS debounce/throttle portmanteau, now with callback taste",
   "homepage": "https://github.com/ex-machine/debottle",
   "author": "ex-machine",

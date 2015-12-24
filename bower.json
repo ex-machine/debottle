@@ -3,7 +3,7 @@
   "authors": [
     "ex-machine"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JS debounce/throttle portmanteau, now with callback taste",
   "keywords": [
     "debounce",
